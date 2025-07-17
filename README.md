@@ -1,5 +1,5 @@
 ### Hi there, I'm Ruhul Amin 👋 
-## I'm a Designer, Developer, and Teacher!!
+## I'm a Designer | Content Creator!!
 
 - 🔭 I just launched my first course: [Motion Graphics in After Effects][course]!
 - 👯 I’m looking to collaborate with other content creators
