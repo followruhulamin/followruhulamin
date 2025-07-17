@@ -1,10 +1,10 @@
 ### Hi there, I'm Ruhul Amin 👋 
 ## I'm a Designer | Content Creator!!
 
-- 🔭 I just launched my first course: [Motion Graphics in After Effects][course]!
+- 🔭 I just launched my first course: [Motion Design Masterclass][course]!
 - 👯 I’m looking to collaborate with other content creators
 
-[course]: https://10minuteschool.com/skills/courses/72/motion-graphics
+[course]: https://learn.ruhulamin.net
 
 
 ## 🔗 Links
