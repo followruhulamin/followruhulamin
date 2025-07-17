@@ -2,10 +2,7 @@
 ## I'm a Designer, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Motion Graphics in After Effects][course]!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learning Web Development
-- ⚡ Fun fact: I love to draw
 
 [course]: https://10minuteschool.com/skills/courses/72/motion-graphics
 
